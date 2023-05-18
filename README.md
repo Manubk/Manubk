@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [TradeFinOps](https://www.singaporeinfotech.com/tradeFinOps.php)
 
-- 🌱 I’m currently learning **Angular , Spring Boot**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Different Projects and enhance my skills**
 
-- 💬 Ask me about **java,Hibernate**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **malteshbk1999@gmail.com**
 
